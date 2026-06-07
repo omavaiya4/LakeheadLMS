@@ -1,13 +1,13 @@
 # LakeheadLMS 📚
 
-> **CS5450 Mobile Programming — Challenge 3**
-> Group #1: Education / LMS Portal — Lakehead University
+> **CS5450 Mobile Programming - Challenge 3**
+> Group #1: Education / LMS Portal - Lakehead University
 
 ---
 
 ## 📱 Overview
 
-**LakeheadLMS** is a full-featured Education/LMS mobile portal built with **React Native (Expo)** and **Firebase**. The app supports two user roles — **Student** and **Instructor** — each with a personalized dashboard, course management, grade tracking, announcements, search, and secure Firebase authentication.
+**LakeheadLMS** is a full-featured Education/LMS mobile portal built with **React Native (Expo)** and **Firebase**. The app supports two user roles - **Student** and **Instructor**, each with a personalized dashboard, course management, grade tracking, announcements, search, and secure Firebase authentication.
 
 ---
 
@@ -29,14 +29,14 @@
 
 ## ✨ Features
 
-- 🔐 **User Registration & Login** — Firebase Email/Password Auth with role selection (Student / Instructor)
-- 🏠 **Personalized Dashboard** — Students see enrolled courses & GPA; Instructors see teaching courses
-- 📚 **Course Management** — Instructors create courses; Students browse and enroll
-- 📊 **Grade Tracking** — Instructors enter grades (assignment / quiz / midterm / final); Students view letter grades and GPA
-- 📢 **Announcements** — Instructors post per-course announcements visible to enrolled students
-- 🔍 **Search** — Search across courses, students, and announcements with filter chips
-- 👤 **Profile** — View and edit name, department with role badge
-- 📱 **Responsive Design** — Optimized for Android phones and tablets
+- 🔐 **User Registration & Login** - Firebase Email/Password Auth with role selection (Student / Instructor)
+- 🏠 **Personalized Dashboard** - Students see enrolled courses & GPA; Instructors see teaching courses
+- 📚 **Course Management** - Instructors create courses; Students browse and enroll
+- 📊 **Grade Tracking** - Instructors enter grades (assignment / quiz / midterm / final); Students view letter grades and GPA
+- 📢 **Announcements** - Instructors post per-course announcements visible to enrolled students
+- 🔍 **Search** - Search across courses, students, and announcements with filter chips
+- 👤 **Profile** - View and edit name, department with role badge
+- 📱 **Responsive Design** - Optimized for Android phones and tablets
 
 ---
 
