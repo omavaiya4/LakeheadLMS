@@ -1,6 +1,6 @@
 # LakeheadLMS 📚
 
-> **CS5450 Mobile Programming — Challenge 2**
+> **CS5450 Mobile Programming — Challenge 3**
 > Group #1: Education / LMS Portal — Lakehead University
 
 ---
