@@ -172,10 +172,4 @@ npx expo start
 
 ---
 
-## ⚠️ Academic Originality
-
-All UI design, screen logic, and content are original work created for this CS5450 Challenge 2 submission. This app does not copy work from other students or external sources.
-
----
-
-*Lakehead University · CS5450 Mobile Programming · Challenge 2 · Group #1*
+*Lakehead University · CS5450 Mobile Programming · Challenge 3 · Group #1*
